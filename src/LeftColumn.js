@@ -75,11 +75,6 @@ class LeftColumn extends Component {
                         </div>
                         <br />
                         <p className="w3-large w3-text-theme"><b><i className="fa fa-globe fa-fw w3-margin-right w3-text-teal" />Idiomas</b></p>
-                        <p>Português</p>
-                        <div className="w3-light-grey w3-round-xlarge">
-                            <div className="w3-round-xlarge w3-teal" style={{ height: 24, width: '100%' }} />
-                        </div>
-                        <br />
                         <p>Inglês</p>
                         <div className="w3-light-grey w3-round-xlarge">
                             <div className="w3-round-xlarge w3-teal" style={{ height: 24, width: '40%' }} />
