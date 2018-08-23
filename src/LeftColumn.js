@@ -30,7 +30,12 @@ class LeftColumn extends Component {
                         <div className="w3-light-grey w3-round-xlarge">
                             <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: '60%' }} />
                         </div>
-                        <p>APS.NET</p>
+                        <p>.NET Framework</p>
+                        <div className="w3-light-grey w3-round-xlarge">
+                            <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: '80%' }} />
+                        </div>
+                        <br />
+                        <p>Asp.NET</p>
                         <div className="w3-light-grey w3-round-xlarge">
                             <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: '80%' }} />
                         </div>
@@ -49,15 +54,35 @@ class LeftColumn extends Component {
                         <div className="w3-light-grey w3-round-xlarge">
                             <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: '75%' }} />
                         </div>
+                        <p>MySql</p>
+                        <div className="w3-light-grey w3-round-xlarge">
+                            <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: '75%' }} />
+                        </div>
+                        <br />
                         <p>JavaScript</p>
                         <div className="w3-light-grey w3-round-xlarge">
                             <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: '75%' }} />
+                        </div>
+                        <br />
+                        <p>NodeJS</p>
+                        <div className="w3-light-grey w3-round-xlarge">
+                            <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: '65%' }} />
+                        </div>
+                        <br />
+                        <p>React</p>
+                        <div className="w3-light-grey w3-round-xlarge">
+                            <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: '60%' }} />
                         </div>
                         <br />
                         <p className="w3-large w3-text-theme"><b><i className="fa fa-globe fa-fw w3-margin-right w3-text-teal" />Idiomas</b></p>
                         <p>Português</p>
                         <div className="w3-light-grey w3-round-xlarge">
                             <div className="w3-round-xlarge w3-teal" style={{ height: 24, width: '100%' }} />
+                        </div>
+                        <br />
+                        <p>Inglês</p>
+                        <div className="w3-light-grey w3-round-xlarge">
+                            <div className="w3-round-xlarge w3-teal" style={{ height: 24, width: '40%' }} />
                         </div>
                         <br />
                     </div>

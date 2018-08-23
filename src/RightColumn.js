@@ -7,8 +7,14 @@ class RightColumn extends Component {
                 <div className="w3-container w3-card-2 w3-white w3-margin-bottom">
                     <h2 className="w3-text-grey w3-padding-16"><i className="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal" />Experiência de Trabalho</h2>
                     <div className="w3-container">
+                        <h5 className="w3-opacity"><b>Desenvolvedor .Net / Zeeng Data Driven Platform</b></h5>
+                        <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right" />Mar 2018 - <span className="w3-tag w3-teal w3-round">Atualmente</span></h6>
+                        <p>Desenvolvimento e manutenção da plataforma Zeeng em Asp.Net MVC 5 com frameworks como: jQuery, Bootstartp. Desenvolvimento e manutenção de rebôs em pyhton, responsáveis por capturar informações das Redes Sociais.</p>
+                        <hr />  
+                    </div>
+                    <div className="w3-container">
                         <h5 className="w3-opacity"><b>Desenvolvedor .Net / Luedtke Assessoria Industrial Ltda</b></h5>
-                        <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right" />Ago 2017 - <span className="w3-tag w3-teal w3-round">Atualmente</span></h6>
+                        <h6 className="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right" />Ago 2017 - Mar 2018</h6>
                         <p>Desenvolvimento de aplicações .Net utilizando o ASP.Net MVC 5, aplicando DDD, principios SOLID e fazendo uso de frameworks como: Entity Framework, Bootstrap e Jquery.</p>
                         <hr />
                     </div>
