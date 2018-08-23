@@ -2,7 +2,7 @@
   "name": "curriculo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cassiano3795.github.io/cassianoraupp.github.io/",
+  "homepage": "https://cassiano3795.github.io/cassianoraupp/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
