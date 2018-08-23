@@ -40,7 +40,6 @@ class RightColumn extends Component {
                         <hr />
                     </div>
                 </div>
-                {/* End Right Column */}
             </div>
         )
     }
