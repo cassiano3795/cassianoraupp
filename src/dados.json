@@ -104,5 +104,13 @@
             "dtFim": "Mar 2015",
             "descricao": "Atendimento e direcionamento de chamados na área de TI, relacionados à microinformática, sistemas comerciais, sistemas operacionais e dúvidas de usuários." 
         }
+    ],
+    "formacoes": [
+        {
+            "universidade": "Universidade Luterana do Brasil",
+            "dtInicio": "2015",
+            "dtFim": "",
+            "formacao": "Bacharel em Ciência da Computação"
+        }
     ]
 }
