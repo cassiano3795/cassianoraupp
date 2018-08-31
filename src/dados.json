@@ -20,19 +20,19 @@
     "competencias": [
         {
             "value": "SQL",
-            "width": 90
+            "width": 75
         },
         {
             "value": "HTML",
-            "width": 70
+            "width": 80
         },
         {
             "value": "CSS",
-            "width": 60
+            "width": 65
         },
         {
             "value": ".Net Framework",
-            "width": 80
+            "width": 85
         },
         {
             "value": "Asp .NET",
