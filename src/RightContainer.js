@@ -5,7 +5,7 @@ class RightContainer extends Component {
     render() {
         return (
             <div className="w3-twothird">
-                <Experiencias props={infos.experiencias}></Experciencias>
+                <Experiencias props={infos.experiencias}></Experiencias>
                 <Formacoes props={infos.formacoes}></Formacoes>
             </div>
         )
