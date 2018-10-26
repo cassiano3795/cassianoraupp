@@ -5,14 +5,14 @@ class RightContainer extends Component {
     render() {
         return (
             <div className="w3-twothird">
-                <Experciencias props={infos.experiencias}></Experciencias>
+                <Experiencias props={infos.experiencias}></Experciencias>
                 <Formacoes props={infos.formacoes}></Formacoes>
             </div>
         )
     }
 }
 
-const Experciencias = ({ props }) => {
+const Experiencias = ({ props }) => {
     return (
         <div className="w3-container w3-card-2 w3-white w3-margin-bottom">
             <h2 className="w3-text-grey w3-padding-16"><i className="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal" />Experiência de Trabalho</h2>

@@ -48,9 +48,6 @@ const Competencias = ({ props }) => {
         <div style={{paddingBottom: 10, width: "50%", float: "left"}}>
             <img style={{borderRadius: 10}} src={props.urlLogo} width="40px" height="40px"></img>
             <span style={{paddingLeft: 10}}>{props.value}</span>
-            {/* <div className="w3-light-grey w3-round-xlarge">
-                <div className="w3-round-xlarge w3-teal" style={{ height: 20, width: `${props.width}%` }} />
-            </div> */}
         </div>
 
     )
