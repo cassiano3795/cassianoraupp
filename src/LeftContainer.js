@@ -55,7 +55,7 @@ const Competencias = ({ props }) => {
 
 const Idiomas = ({ props }) => {
     return (
-        <div style={{paddingBottom: 10}}>
+        <div style={{paddingBottom: 10, width: "50%", float: "left"}}>
             <img style={{paddingRight: 10}} src={props.urlLogo} width={40}></img>
             <span>{props.value}</span>
         </div>
