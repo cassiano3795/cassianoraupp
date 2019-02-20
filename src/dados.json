@@ -44,6 +44,10 @@
             "urlLogo": "https://mrawdon.gallerycdn.vsassets.io/extensions/mrawdon/javadebugger/0.1.4/1505743242445/Microsoft.VisualStudio.Services.Icons.Default"
         },
         {
+            "value": "Python",
+            "urlLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"
+        },
+        {
             "value": "Oracle",
             "urlLogo": "https://ecommercenews.com.br/wp-content/uploads/2018/07/oracle.jpg"
         },
@@ -62,6 +66,10 @@
         {
             "value": "NodeJS",
             "urlLogo": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
+        },
+        {
+            "value": "jQuery",
+            "urlLogo": "https://banner2.kisspng.com/20180828/yge/kisspng-1st-century-logo-brand-electric-motor-duoweb-5b85a160141ef6.2288466515354842560824.jpg"
         },
         {
             "value": "React",
