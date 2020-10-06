@@ -6,8 +6,8 @@ class Curriculo extends Component {
   render() {
     return (
       <div>
-        <Content></Content>
-        <Footer></Footer>
+        <Content />
+        <Footer />
       </div>
     )
   }

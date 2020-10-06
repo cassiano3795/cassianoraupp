@@ -7,8 +7,8 @@ class LeftColumn extends Component {
         return (
             <div className="w3-third">
                 <div className="w3-white w3-text-grey w3-card-4">
-                    <Imagem></Imagem>
-                    <LeftContainer></LeftContainer>
+                    <Imagem />
+                    <LeftContainer />
                 </div>
             </div>
         )

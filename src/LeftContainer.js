@@ -23,15 +23,6 @@ class LeftContainer extends Component {
                 })}
 
                 <br />
-                {/* <p className="w3-large w3-text-theme"><b><i className="fa fa-globe fa-fw w3-margin-right w3-text-teal" />Idiomas</b></p>
-                {infos.idiomas.sort((a, b) => {
-                    return b.width - a.width;
-                }).map((value, index) => {
-                    return (
-                        <Idiomas key={index} props={value}></Idiomas>
-                    )
-                })} */}
-                <br />
             </div>
         )
     }

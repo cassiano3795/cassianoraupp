@@ -5,7 +5,7 @@ class Content extends Component {
     render() {
         return (
             <div className="w3-content w3-margin-top" style={{ maxWidth: 1400 }}>
-                <Grid></Grid>
+                <Grid />
             </div>
         );
     }
