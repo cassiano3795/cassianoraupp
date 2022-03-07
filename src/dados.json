@@ -2,7 +2,7 @@
     "dados": [
         {
             "icone": "briefcase",
-            "value": "Desenvolvedor de Sistemas"
+            "value": "Engenheiro de Software"
         },
         {
             "icone": "home",
@@ -104,9 +104,15 @@
     ],
     "experiencias": [
         {
+            "cargo": "Senior Software Enginner / XP Investimentos",
+            "dtInicio": "Nov 2021",
+            "dtFim": "",
+            "descricao": "" 
+        },
+        {
             "cargo": "Software Enginner / DBC Comapany",
             "dtInicio": "Jun 2021",
-            "dtFim": "",
+            "dtFim": "Out 2021",
             "descricao": "Desenvolvimento de template arquitetural de novos projetos, avaliar a qualidade do código entregue pelos desenvolvedores (PR), definir e validar a arquitetura de novos projetos junto com os times, POC de novas tecnologias, desenvolvimento de pacotes de uso comum aos times, desenvolvimento de aplicações para uso comum da TI ou de seus sistemas, apoio especializado aos times de desenvolvimento." 
         },
         {
@@ -151,8 +157,8 @@
     "formacoes": [
         {
             "universidade": "Universidade Luterana do Brasil",
-            "dtInicio": "2015",
-            "dtFim": "",
+            "dtInicio": "2015/1",
+            "dtFim": "2021/2",
             "formacao": "Bacharel em Ciência da Computação"
         }
     ]
